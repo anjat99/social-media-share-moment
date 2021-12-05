@@ -1,0 +1,29 @@
+@media (max-width: 767.98px) {
+    .signup__container{
+        width: 100%;
+        flex-direction: column;
+    }
+    .container__child{
+        width: auto;
+    }
+    .register-small{
+        top: 80%;
+    }
+    .register-small-err{
+        padding-top: 20%;
+    }
+    .errors-mobile-show{
+        display: block;
+    }.errors-mobile-hide{
+        display: none;
+    }
+    .filterPart{
+        order: 1;
+    }
+    .contentPart{
+        order: 2;
+    }
+    #sidebarMenuUser{
+        padding-top:40%!important;
+    }
+}
